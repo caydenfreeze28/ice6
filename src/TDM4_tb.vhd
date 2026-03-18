@@ -11,7 +11,7 @@
 --| ---------------------------------------------------------------------------
 --|
 --| FILENAME      : TDM4_tb.vhd (TEST BENCH)
---| AUTHOR(S)     : Capt Phillip Warner, Capt Dan Johnson, **Your Name**
+--| AUTHOR(S)     : C3C Cayden Freeze
 --| CREATED       : 03/2017 Last modified on 06/24/2020
 --| DESCRIPTION   : This file tests the 4 to 1 TDM.
 --|
